@@ -16,9 +16,6 @@ author:
   name:           'Tawny Sit'
   email:          sit.6@osu.edu
 
-paginate:         1
-paginate_path:    "page:num"
-
 # Custom vars
 emailme:          mailto:sit.6@osu.edu
 orcid_username:   0000-0001-8208-9755
