@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Tawny Sit
@@ -18,6 +17,7 @@ author:
   email:          sit.6@osu.edu
 
 paginate:         1
+paginate_path:    "page:num"
 
 # Custom vars
 emailme:          mailto:sit.6@osu.edu
