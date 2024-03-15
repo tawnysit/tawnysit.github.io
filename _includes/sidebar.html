@@ -27,6 +27,18 @@
       {% endfor %}
 
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/SitTawny_CV.pdf">CV</a>
+
+      {% if site.orcid_username %}
+      <a href="https://orcid.org/{{ site.orcid_username }}" target="_blank" style="text-decoration:none">
+        <i class="ai ai-orcid-square"></i>
+      </a>
+      {% endif %}
+      {% if site.github_username %}
+      <a href="https://github.com/{{site.github_username}}" target="_blank" style="text-decoration:none">
+        <i class="fab fa-github-square"></i>
+      </a>
+      {% endif %}
+      
       <span class="sidebar-nav-item">Updated {{ site.version }}</span>
     </nav>
     
