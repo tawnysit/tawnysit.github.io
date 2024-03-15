@@ -10,7 +10,7 @@ title:            Tawny Sit
 tagline:          'Astronomy Graduate Student'
 description:      'Graduate Student in Astronomy at <a href="https://astronomy.osu.edu/">The Ohio State University</a>.'
 url:              http://tawnysit.github.io
-baseurl:          /
+baseurl:          http://tawnysit.github.io/
 
 author:
   name:           'Tawny Sit'
@@ -22,3 +22,4 @@ orcid_username:   0000-0001-8208-9755
 github:
   repo:           https://github.com/tawnysit/tawnysit.github.io
 version:          2024/03/14
+github_username:  tawnysit
