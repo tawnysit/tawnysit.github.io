@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Tawny Sit
 tagline:          'Astronomy Graduate Student'
 description:      'Graduate Student in Astronomy at <a href="https://astronomy.osu.edu/">The Ohio State University</a>.'
-url:              http://tawnysit.github.io
-baseurl:          http://tawnysit.github.io/
+url:              https://tawnysit.github.io
+baseurl:          https://tawnysit.github.io/
 
 author:
   name:           'Tawny Sit'
