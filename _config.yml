@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Tawny Sit
 tagline:          'Astronomy Graduate Student'
-description:      'Graduate Student in Astronomy at <a href="https://astronomy.osu.edu/">The Ohio State University</a>.'
+description:      'PhD Candidate in Astronomy at <a href="https://astronomy.osu.edu/">The Ohio State University</a>.'
 url:              https://tawnysit.github.io
 baseurl:          https://tawnysit.github.io/
 
@@ -20,5 +20,5 @@ author:
 orcid_username:   0000-0001-8208-9755
 github:
   repo:           https://github.com/tawnysit/tawnysit.github.io
-version:          2024/03/14
+version:          2025/02/03
 github_username:  tawnysit
