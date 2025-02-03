@@ -1,6 +1,6 @@
 ---
-layout page
-title About
+layout: page
+title: About
 ---
 
 I am a PhD candidate in astronomy at The Ohio State University. I grew up on Long Island, in the New York City suburbs, and was fortunate to get my first taste of astronomy research in high school at Brookhaven National Lab through their [High School Research Program](https://www.bnl.gov/education/programs/program.php?q=219). I graduated from Caltech in 2020 with a BS in Astrophysics and am a proud member of Ricketts Hovse. Afterward, I was lucky enough to continue doing astronomy research during the peak of the COVID-19 pandemic before starting graduate school at OSU in 2022. You can read more about my research on my [research page](https://tawnysit.github.io/research/).
